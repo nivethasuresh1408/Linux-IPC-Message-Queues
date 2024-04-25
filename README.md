@@ -1,3 +1,4 @@
+
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
@@ -86,10 +87,13 @@ return 0;
 ## OUTPUT
 
 
-![Screenshot from 2024-04-13 23-02-17](https://github.com/gururaghav2925/Linux-IPC-Message-Queues/assets/151489500/04e9499e-5318-4bc9-8644-e006e9d915f5)
+![Screenshot from 2024-04-16 10-54-05](https://github.com/shivsujan/Linux-IPC-Message-Queues/assets/145633245/31f567c0-86e7-4082-b89d-d4911133c28e)
 
 
 
 
 # RESULT:
 The programs are executed successfully.
+
+
+
